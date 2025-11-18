@@ -1,4 +1,18 @@
 
+/*
+Proyecto final practica 1, 2 y 3
+Rosa Santos Meza Grupo 3ss 
+En este proyecto junté las dos prácticas anteriores con ésta: uso de estructuras, arreglos
+menú y manjeo de archivos.
+El programa puede capturar estudiantes, mostrar datos,buscar por matrícula y guardar todo en un archivo.
+En el video explico: qué estructuras usé y para qué, cómo pensé en el flujo del menú,
+cómo funciona cada parte del código, qué problemas tube y cómo los resolví, el diagrama de flujo que hice
+para guiarme. 
+Este comentario es sólo la  presentación general para que se entienda rápido cómo funciona el código,
+sin necesidad de leerlo todo.
+
+*/
+
 #include <stdio.h>
 #include <string.h>
 
